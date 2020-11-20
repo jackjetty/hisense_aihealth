@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/aihealth_parent/aihealth_job/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aihealth_parent/aihealth_job/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aihealth_parent/aihealth_manage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aihealth_parent/aihealth_manage/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aihealth_parent/aihealth_mobile/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aihealth_parent/aihealth_mobile/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aihealth_parent/aihealth_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aihealth_parent/aihealth_service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

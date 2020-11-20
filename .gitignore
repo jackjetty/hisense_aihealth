@@ -1,0 +1,7 @@
+# Project exclude paths
+/aihealth_parent/aihealth-api/target/
+/aihealth_parent/aihealth_common/target/
+/aihealth_parent/aihealth_job/target/
+/aihealth_parent/aihealth_manage/target/
+/aihealth_parent/aihealth_mobile/target/
+/aihealth_parent/aihealth_service/target/

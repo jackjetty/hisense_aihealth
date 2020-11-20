@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="aihealth_service:war">
+    <output-path>$PROJECT_DIR$/aihealth_parent/aihealth_service/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>aihealth_service</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="aihealth_service-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="aihealth_service:war exploded" />
+    </root>
+  </artifact>
+</component>

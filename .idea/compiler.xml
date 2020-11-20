@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aihealth_service" />
+        <module name="aihealth_common" />
+        <module name="aihealth_job" />
+        <module name="aihealth-api" />
+        <module name="aihealth_mobile" />
+        <module name="aihealth_manage" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aihealth-api" target="1.8" />
+      <module name="aihealth_common" target="1.8" />
+      <module name="aihealth_job" target="1.8" />
+      <module name="aihealth_manage" target="1.8" />
+      <module name="aihealth_mobile" target="1.8" />
+      <module name="aihealth_parent" target="1.8" />
+      <module name="aihealth_service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

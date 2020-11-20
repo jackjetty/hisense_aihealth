@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aihealth_parent/aihealth-api/aihealth-api.iml" filepath="$PROJECT_DIR$/aihealth_parent/aihealth-api/aihealth-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aihealth_parent/aihealth_common/aihealth_common.iml" filepath="$PROJECT_DIR$/aihealth_parent/aihealth_common/aihealth_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aihealth_parent/aihealth_job/aihealth_job.iml" filepath="$PROJECT_DIR$/aihealth_parent/aihealth_job/aihealth_job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aihealth_parent/aihealth_manage/aihealth_manage.iml" filepath="$PROJECT_DIR$/aihealth_parent/aihealth_manage/aihealth_manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aihealth_parent/aihealth_mobile/aihealth_mobile.iml" filepath="$PROJECT_DIR$/aihealth_parent/aihealth_mobile/aihealth_mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aihealth_parent/aihealth_parent.iml" filepath="$PROJECT_DIR$/aihealth_parent/aihealth_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aihealth_parent/aihealth_service/aihealth_service.iml" filepath="$PROJECT_DIR$/aihealth_parent/aihealth_service/aihealth_service.iml" />
+    </modules>
+  </component>
+</project>
