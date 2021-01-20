@@ -16,18 +16,18 @@ import com.aliyuncs.profile.DefaultProfile;
  */
 public class SMSUtils {
 
-    private static final String ACCESSKEYID = "LTAI4GFisLZ32CbFnu2Rxxxx";
-    private static final String ACCESSKEYSECRET = "3Y6Ka5Ggek7B5xobgP9Sgp3lxlxxxx";
+    private static final String ACCESSKEYID = "yourkeyid";
+    private static final String ACCESSKEYSECRET = "yourkeysecret";
 
     /**
      * 发送短信验证码
      */
-    public static final String VALIDATE_CODE = "SMS_203181532";
+    public static final String VALIDATE_CODE = "yourvalidatecode";
 
     /**
      * 体检预约成功通知
      */
-    public static final String ORDER_NOTICE = "SMS_203181532";
+    public static final String ORDER_NOTICE = "yourvalidatecode";
 
     /**
      * 发送短信
